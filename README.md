@@ -17,9 +17,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarif2050&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarif2050&layout=compact&theme=dark)
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarif2050&show_icons=true&theme=dark)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarif2050&layout=compact&theme=dark)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliarif2050&theme=dark)
 
 
