@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarif2050&show_icons=true&theme=dark)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarif2050&layout=compact&theme=dark)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliarif2050&theme=dark&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliarif2050&theme=dark)](https://git.io/streak-stats)
 
 > 🌟 _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
 
