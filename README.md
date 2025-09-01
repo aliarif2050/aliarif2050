@@ -10,7 +10,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/aliarif-se28"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
+<p align="center">
+  <a href="https://leetcode.com/aliarif_728"><img src="https://img.shields.io/badge/LeetCode-green?style=flat-square&logo=LeetCode&logoColor=white" alt="Leetcode"/></a>
+</p>
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
