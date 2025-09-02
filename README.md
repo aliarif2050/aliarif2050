@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Arif</h1>
 <h3 align="center">A Passionate Software Engineering Student</h3>
 
-- 🔭 I’m currently working on **school assignments and personal projects**  
-- 🌱 Learning and strengthening my skills in **C++, JavaScript, and React**  
-- 👯 Open to collaborating on **open source or beginner-friendly projects**  
-- 📫 Reach me at: **aliarif2050@gmail.com**
+-  I’m currently working on **school assignments and personal projects**  
+-  Learning and strengthening my skills in **C++, JavaScript, and React**  
+-  Open to collaborating on **open source or beginner-friendly projects**  
+-  Reach me at: **aliarif2050@gmail.com**
 
 ## 🌐 Socials:
 <p align="center">
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ## 📊 GitHub Stats:
